@@ -1,7 +1,7 @@
 # Cryptocurrencies Project
 Sied H Mohamed
 # Overview of the project
-A prominent investment bank is interested in providing offering a new cryptocurrency investment portfolio for its customers. Since there are large number of cryptocurrencies, the company is interested to have a report a report that includes what cryptocurrencies are on the trading market and create a cluster that enable the company to classify the new investment. 
+A prominent investment bank is interested in providing offering a new cryptocurrency investment portfolio for its customers. Since there are large number of cryptocurrencies, the company is interested to have a report  that includes what cryptocurrencies are on the trading market and create a cluster that enable the company to classify the new investment. 
 
 Since there is no known cluster or classification, unsupervised machine learning algorithm is used to generate the clusters or classes. Before applying the machine learning algorism, I preprocess the database to remove missing values, convert strings to numeric and remove unnecessary columns. Following this I used Principal Component Analysis to reduce the dimension of the data set, and use the elbow curve and K-means algorism to produce the clusters. Finally, I used 2D and 3D plots to visualize the  findings. 
 
