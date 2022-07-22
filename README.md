@@ -1,4 +1,4 @@
-# Challenge-18
+# Cryptocurrencies Project
 Sied H Mohamed
 # Overview of the project
 A prominent investment bank is interested in providing offering a new cryptocurrency investment portfolio for its customers. Since there are large number of cryptocurrencies, the company is interested to have a report a report that includes what cryptocurrencies are on the trading market and create a cluster that enable the company to classify the new investment. 
